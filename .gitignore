@@ -1,0 +1,11 @@
+/auth/auth-srv
+/inventory-srv/inventory-srv
+/orders-srv/orders-srv
+/orders-web/orders-web
+/payment-srv/payment-srv
+/payment-web/payment-web
+/user-fnc/user-fnc
+/user-srv/user-srv
+/user-web/user-web
+/.idea
+/start.sh
